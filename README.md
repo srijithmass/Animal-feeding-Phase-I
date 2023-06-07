@@ -79,7 +79,7 @@ public class MoveForward : MonoBehaviour
 }
 ```
 ## Output:
-![ss1 (1)](https://github.com/Senthil-Kumar-710/demo/assets/93860256/597b865f-140a-4c1e-9c4e-b8d3877db2a7)
+![ss1 (1)](https://github.com/srijithmass/demo/assets/86846530/f9ef2b36-0111-4f34-8f84-442ce5f78af0)
 
 
 ## Result:
